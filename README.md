@@ -1,3 +1,13 @@
+VistaPrevia
+
+![VISTA PREVIA](assets/img/my_cv.png)  
+
+(Para vista dinamica, descargue el repositorio y abra el archivo cv.html)
+
+# A|S  
+## ANGEL SALAZAR ROCHA  
+
+
 # A|S
 ## ANGEL SALAZAR ROCHA  
 
